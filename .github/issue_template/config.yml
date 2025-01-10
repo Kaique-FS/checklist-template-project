@@ -1,7 +1,0 @@
-pull_request_template:
-- name: "Feature Template"
-  description: "Template para pull request de novas funcionalidades"
-  file: ".github/pull_request_template/mr_template_feature.md"
-- name: "Fix Template"
-  description: "Template para pull request de correções"
-  file: ".github/pull_request_template/mr_template_fix.md"
